@@ -1,0 +1,251 @@
+body
+{
+  margin:0px;
+  padding:0px;
+  background:#eee;
+}
+*
+{margin:0px;
+padding:0px;
+}
+a
+{text-decoration:none;
+outline:none;
+}
+img
+{
+  border:none;
+}
+#wrap
+{
+  width:899px;
+  margin:0 auto;
+}
+#wrap-sup
+{
+  width:899px;
+  float:left;
+  background:#fff;
+}
+#head
+{
+  width:899px;
+  float:left;
+  
+}
+#headleft
+{
+  width:160px;
+  float:left;
+  margin:53px 0 0 0;
+}
+#headleft h1
+{
+  width:161px;
+  height:154px;
+  float:left;
+  background:url(../image/person.png) no-repeat;
+}
+#headright
+{width:732px;
+float:left;
+margin:45px 0 0 0;
+}
+#headright h2
+{
+  width:600px;
+  float:left;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size:50px;
+  color:#373737;
+  font-weight:normal;
+  margin:0 0 0 12px;
+}
+#head h2 span
+{
+  font-size:16px;
+}
+#head p
+{
+  float:left;
+  margin:30px 0 0 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:12px;
+  color:#595959;
+  line-height:18px;
+}
+#head p.p
+{
+  float:right;
+  text-align:right;
+}
+#top
+{
+  width:899px;
+  float:left;
+  margin:25px 0 0 0;
+  border-top:#c9c9c9 solid 1px;
+  padding:0 0 60px 0;
+}
+#topleft
+{
+  width:160px;
+  float:left;
+  margin:40px 0 0 0;
+}
+#topleft h3
+{
+  width:152px;
+  float:left;
+  background:#e7e7e7;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:15px;
+  color:#373737;
+  padding:8px 0 8px 8px;
+  font-weight:normal;
+}
+#topright
+{
+  width:722px;
+  float:left;
+  margin:32px 0 0 12px;
+  border-bottom:#c9c9c9 solid 1px;
+}
+#topright p.p1
+{
+  width:711px;
+  float:left;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size:15px;
+  color:#6a6b6b;
+  line-height:24px;
+  
+  padding:0 0 25px 0;
+}
+#midleft
+{
+  width:160px;
+  float:left;
+  margin:29px 0 0 0;
+}
+#top h3
+{
+  width:152px;
+  float:left;
+  background:#e7e7e7;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:15px;
+  color:#373737;
+  padding:8px 0 8px 8px;
+  font-weight:normal;
+}
+  
+#midright
+{
+  width:722px;
+  float:left;
+  margin:30px 0 0 12px;
+  border-bottom:#c9c9c9 solid 1px;
+  
+}
+#top h5
+{
+  width:500px;
+  float:left;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size:15px;
+  color:#525252;
+  font-weight:bold;
+}
+#top p.p
+{
+    width:auto;
+  float:right;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size:15px;
+  color:#525252;
+  font-weight:bold;
+  margin-right:3px;
+}
+  
+#top p.p2
+{
+  width:711px;
+  float:left;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size:15px;
+  color:#6a6b6b;
+  line-height:24px;
+  padding:0 0 25px 0;
+  margin:8px 0 0 0;
+}
+#skills
+{
+  width:160px;
+  float:left;
+  margin:29px 0 0 0;
+}
+#skillsright
+{
+  width:722px;
+  float:left;
+  margin:30px 0 0 12px;
+  border-bottom:#c9c9c9 solid 1px;
+  
+}
+#exp
+{
+  width:160px;
+  float:left;
+  margin:29px 0 0 0;
+}
+#expsright
+{
+  width:722px;
+  float:left;
+  margin:30px 0 0 12px;
+  border-bottom:#c9c9c9 solid 1px; 
+}
+#expsright div {
+  width: 200px;
+  float: left;
+}
+
+#other
+{
+  width:160px;
+  float:left;
+  margin:29px 0 0 0;
+}
+#otherright
+{
+  width:722px;
+  float:left;
+  margin:29px 0 0 12px;  
+}
+#personalright label
+{
+  width:100px;
+  float:left;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size:15px;
+  font-weight:bold;
+  color:#525252;
+}
+#personalright p.p3
+{
+  width:100%;
+  float:left;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size:15px;
+  color:#6a6b6b;
+  line-height:24px;
+  
+}
+  
+  
+.footer, .footer a, a
+{
+  color:#666;
+  text-align:center;
+}
